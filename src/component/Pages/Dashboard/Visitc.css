@@ -1,0 +1,49 @@
+.visitFlex{
+   width: 95%;
+   margin: auto;
+   border-radius: 50px;
+   margin-top: 25px;
+}
+.visitFlex-text{
+    width: 98%;
+    margin: 40px auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.right-v{
+    display: flex;
+    align-items: center;
+    grid-gap: 25px;
+}
+
+.flex-card{
+    width: 98%;
+    display: flex;
+    justify-content: center;
+   grid-gap: 18px;
+   margin-bottom: 50px;
+}
+
+.right-v select{
+    border: none;
+    background-color: #1F2832;
+    outline: none;
+    width: 140px;
+    height: 50px;
+    color: white;
+    border-radius: 5px;
+    font-size: 19px;
+    letter-spacing: 1px;
+    padding: 10px 10px ;
+}
+.right-v p{
+   font-weight: bold;
+   font-size: 18px;
+}
+.left-v h2{
+    font-size: 28px;
+    color: rgb(175, 175, 175);
+    letter-spacing: -0px;
+    font-weight: 100;
+}

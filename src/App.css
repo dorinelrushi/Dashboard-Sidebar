@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+body{
+    background: #F6F6F6;
+    font-family: sans-serif;
+}
+.flex-side{
+    display: flex;
+    
+}

@@ -1,0 +1,81 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.profile{
+    width: 100%;
+
+    background: url('../../assets/HD-wallpaper-ios-15-iphone.jpg');
+    background-size: cover;
+    background-position: 50% 50%;
+}
+.inside-flex-profile{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px 20px;
+}
+.myprofile h2{
+    color: white;
+    font-weight: 100;
+    font-size: 22px;
+    cursor: pointer;
+    letter-spacing: 0.5px;
+ 
+}
+.pen i{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 25px;
+    color: #7CB6FA;
+}
+.circle-profile-flex{
+    width: 140px;
+    height: 140px;
+    background: url('../../assets/dribbble-11.webp');
+    background-size: cover;
+    background-position: 50% 50%;
+    text-align: center;
+    margin: auto;
+    border-radius: 50%;
+}
+
+.circle-profile h2{
+    color: white;
+    text-align: center;
+    margin-top: 2rem;
+    font-size: 2.2rem;
+    font-weight: 400;
+
+}
+
+.circle-profile p{
+    color: white;
+    text-align: center;
+    margin-top: 0.9rem;
+    font-size: 1.3rem;
+    font-weight: 100;
+
+}
+
+.donw-arrow {
+    text-align: center;
+     margin-top: 30px;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+   
+}
+
+.donw-arrow span{
+    margin-bottom: 10px;
+}

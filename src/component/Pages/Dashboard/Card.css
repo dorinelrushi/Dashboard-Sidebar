@@ -1,0 +1,36 @@
+.card-item{
+    width: 200px;
+    padding: 20px 40px;
+    border-radius: 30px;
+    background: white;
+}
+
+.img-r{
+    width: 89px;
+    height: 89px;
+    background: url('../../../assets/104009977-vector-cartoon-style-illustration-of-medical-hospital-building-medical-stuff-and-ambulance-car-urban.webp');
+    background-size: cover;
+    border-radius: 60%;
+    margin-bottom: 30px;
+}
+.card-item h2{
+    margin-bottom: 15px;
+}
+.card-item p{
+    margin-bottom: 10px;
+}
+.flex-l{
+    margin-top: 25px;
+    display: flex;    
+    grid-column-gap: 15px;
+    color: #7CB6FA;
+    font-weight: 100;
+}
+.flex-l h2{
+    font-weight: 100;
+    font-size: 22px;
+    letter-spacing: 0.5px;
+}
+.flex-l i{
+    font-size: 25px;
+}

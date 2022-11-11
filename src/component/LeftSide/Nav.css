@@ -1,0 +1,34 @@
+.menu-flex ul li
+{
+   width: 100% ;
+    list-style-type: none;
+    display: flex;
+    font-size: 22px;
+    align-items: center;
+    grid-gap: 29px;
+    color: #353535;
+    padding: 25px 60px;
+    letter-spacing: 0px;
+    cursor: pointer;
+   
+    
+}
+
+.menu-flex ul li:hover {
+    background-color: #e5ebf4;
+    
+}
+.menu-flex .fa {
+      color: #7CB6FA;
+      font-size: 32px;
+}
+.menu-flex .fa:hover {
+    color: #ffffff;
+    font-size: 32px;
+}
+
+.menu-flex  #active{
+    background-color: #223d5c;
+    color: white;
+}
+
